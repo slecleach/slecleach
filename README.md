@@ -1,1 +1,1 @@
-👋 Hi, I’m Simon, research scientist at the Boston Dynamics AI Institute.  
+👋 Hi, I’m Simon, research scientist at the AI Institute.  
